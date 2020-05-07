@@ -6,7 +6,7 @@ Tokyo | avi.gep@gmail.com | [www.avivarma.me](https://avivarma.me/?src=github)
 
 Hands on production level experience: <br>
   
-  Frontend: `CoffeeScript`, `VueJS`,`AngularJS`<br>
+Frontend: `CoffeeScript`, `VueJS`,`AngularJS`<br>
 Programming: `Ruby`, `Python`, `NodeJS`<br>
 Frameworks: `Ruby on Rails`, `AIOHTTP`<br>
 Database and caching: `MySQL`, `Postgres`, `Neo4j`, `Redis`, `MongoDB`, `Memcached`<br>
