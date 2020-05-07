@@ -5,15 +5,16 @@ Tokyo | avi.gep@gmail.com | [www.avivarma.me](https://avivarma.me/?src=github)
 ## Skills and tools
 
 Hands on production level experience: <br>
+  
+  Frontend: `CoffeeScript`, `VueJS`,`AngularJS`<br>
+Programming: `Ruby`, `Python`, `NodeJS`<br>
+Frameworks: `Ruby on Rails`, `AIOHTTP`<br>
+Database and caching: `MySQL`, `Postgres`, `Neo4j`, `Redis`, `MongoDB`, `Memcached`<br>
+Infrastructure: `Amazon Web services`, `Google Cloud Platform`, `Kubernetes`, `Docker`<br>
+Tools: `Jira`, `Confluence`, `Trello`, `CircleCI`, `Jenkins`, `Sentry`, `Slack`
+<hr>
 
-  Frontend: `CoffeeScript`, `VueJS`, `AngularJS`<br>
-  Programming: `Ruby`, `Python`, `NodeJS`<br>
-  Frameworks: `Ruby on Rails`, `AIOHTTP`<br>
-  Database and caching: `MySQL`, `Postgres`, `Neo4j`, `Redis`, `MongoDB`, `Memcached`<br>
-  Infrastructure: `Amazon Web services`, `Google Cloud Platform`, `Kubernetes`, `Docker`<br>
-  Tools: `Jira`, `Confluence`, `Trello`, `CircleCI`, `Jenkins`, `Sentry`, `Slack`
-
-# Experience
+## Experience
 
 ## Full Stack Engineer @ Styler Inc, Tokyo | Nov 2019 - Present
 - Design for Monolith to Microservices transition
@@ -55,3 +56,25 @@ Designed and developed new efficient APIs for mobile applications and reduced ar
 ## Projects based on blockchain
 - Framework to fetch transactions form major crypto exchanges
 - [Design, development and Deployment] Wallet management and lending platform for Crypto Coin (Ethereum app)
+
+<hr>
+
+## Education
+B.tech in computer engineering, <br>VJTI, Mumbai University, India 
+<br>Class of 2010 with 7.5/10 GPA
+
+<hr>
+
+## Languages
+- English (Full Working Proficiency)
+- Japanese (Limited Working Proficiency)
+- Hindi and Marathi (Native)
+
+<hr>
+
+## Awards and other
+- Rakuten Best project award, 2011
+- Recipient of JRD Tata trust merit scholarship, 2008 and 2009 
+- Recipient of silver medal in university for academic achievements
+- Won first prize in an inter-university project competition, 2009
+- Participated, formed team and qualified in Startup Weekend Tokyo 2012 and 2013
