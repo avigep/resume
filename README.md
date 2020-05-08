@@ -18,12 +18,17 @@ Tools: `Jira`, `Confluence`, `Trello`, `CircleCI`, `Jenkins`, `Sentry`, `Slack`
 
 ## Full Stack Engineer @ Styler Inc, Tokyo | Nov 2019 - Present
 - Design for Monolith to Microservices transition
+  <br>Using `AIOHTTP` `Python` `GCP` `Postgres`
 - Analytics solutions for the sales and customer success team
+  <br>Using `metabase` `Kubernetes` `Google Cloud Platform`
 
 ## Senior Engineer @ RobotFund, Tokyo | Jan 2018 - Present
 - [Design, development and deployment] Texatron: Speech to Text PoC for major banking corporation 
+  <br>Using `Google Speech to Text APIs` `VueJS` `Ruby on Rails` `Sidekiq delayed jobs`
 - [Design and Development] Interactive Voice Response(IVR) system development based on Twilio API
+  <br>Using `Ruby on Rails`
 - [Design and Development] Backend system to forecast stock information
+  <br>Using `Python`
 
 ## Senior solutions engineer @ Rakuten, Tokyo | Jan 2016 - Dec 2018
 
@@ -49,13 +54,14 @@ Designed and developed new efficient APIs for mobile applications and reduced ar
   - System to support multiple marketplaces (deployed internally)
 
 ## Application engineer @ Rakuten, Tokyo | Jan 2011 - Mar 2015
-- E-commerce website development in Java and Ruby on Rails
+- E-commerce website development in `Java`, `Ruby on Rails`, `AngularJS` and `CoffeeScript`
   Some of the features developed are rule engine, point and user ranks, shopping cart and checkout, Product aggregation, Browsing history, Search suggestions, Recommendations
 - Worked on frontend as well as backend  
 
 ## Projects based on blockchain
 - Framework to fetch transactions form major crypto exchanges
 - [Design, development and Deployment] Wallet management and lending platform for Crypto Coin (Ethereum app)
+  Using `VueJS`, `Ruby on Rails` and `Ethereum`
 
 <hr>
 
