@@ -12,7 +12,7 @@ Frameworks: `Ruby on Rails`, `AIOHTTP`<br>
 Database and caching: `MySQL`, `Postgres`, `Neo4j`, `Redis`, `MongoDB`, `Memcached`<br>
 Infrastructure: `Amazon Web services`, `Google Cloud Platform`, `Kubernetes`, `Docker`<br>
 Tools: `Jira`, `Confluence`, `Trello`, `CircleCI`, `Jenkins`, `Sentry`, `Slack`<br>
-Platforms: `Ethereum` 
+Platforms: `Ethereum <blockchain>` 
 <hr>
 
 ## Experience
