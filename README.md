@@ -17,7 +17,8 @@ Platforms: `Ethereum <blockchain>`
 
 ## Experience
 
-## (Contract) Senior Engineer @ PayrollHero, Remote (Team members in : Japan/Philippines/Canada) | July 2020 - Present
+## Senior Engineer @ PayrollHero, Remote | July 2020 - Present
+`Team members in : Japan/Philippines/Canada | Contract Position`
 - Management and development of large Ruby on Rails application
   <br> `400 + models, 250+ controllers,`, `55K Lines of Code and 100,000+ Lines of test code`,  <br>`Contribution to upgrade Rails from 4.2 -> 5.0 -> 5.1 -> 6`
 - Scrum management, release management
@@ -29,7 +30,8 @@ Platforms: `Ethereum <blockchain>`
 - Analytics solutions for the sales and customer success team
   <br>Using `metabase` `Kubernetes` `Google Cloud Platform`
 
-## (Contract) Senior Engineer @ RobotFund, Tokyo | Jan 2018 - Dec 2019
+## Senior Engineer @ RobotFund, Tokyo | Jan 2018 - Dec 2019
+`Contract position`
 - [Design, development and deployment] Texatron: Speech to Text PoC for major banking corporation 
   <br>Using `Google Speech to Text APIs` `VueJS` `Ruby on Rails` `Sidekiq delayed jobs`
 - [Design and Development] Interactive Voice Response(IVR) system development based on Twilio API
