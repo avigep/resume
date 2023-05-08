@@ -17,14 +17,17 @@ Platforms: `Ethereum <blockchain>`
 
 ## Experience
 
-## Senior Engineer @ PayrollHero, Remote | July 2020 - Present
+## VP of Engineering @ foriio, Remote | Sep 2021 - present
+- responsible for recruiting and managing the engineering team, budgeting, and developing engineering processes and standards
+
+## Senior Engineer @ PayrollHero, Remote | June 2020 - June 2021
 `Team members in : Japan/Philippines/Canada | Contract Position`
 - Management and development of large Ruby on Rails application
   <br> `400 + models, 250+ controllers,`, `55K Lines of Code and 100,000+ Lines of test code`,  <br>`Contribution to upgrade Rails from 4.2 -> 5.0 -> 5.1 -> 6`
 - Scrum management, release management
   <br>`Communication with sales team to gather requirements. Refine -> design -> develop requirements.`
 
-## Full Stack Engineer @ Styler Inc, Tokyo | Nov 2019 - July 2020
+## Full Stack Engineer @ Styler Inc, Tokyo | Nov 2019 - June 2020
 - Design for Monolith to Microservices transition
   <br>Using `AIOHTTP` `Python` `GCP` `Postgres`
 - Analytics solutions for the sales and customer success team
