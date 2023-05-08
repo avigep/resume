@@ -1,6 +1,5 @@
 # Avinash Varma 
-Tokyo | avi.gep@gmail.com | [www.avivarma.me](https://avivarma.me/?src=github)
-
+avi.gep@gmail.com
 
 ## Skills and tools
 
