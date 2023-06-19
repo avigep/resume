@@ -41,7 +41,7 @@ Platforms: `Ethereum <blockchain>`
 - [Design and Development] Backend system to forecast stock information
   <br>Using `Python`
 
-## Senior solutions engineer @ Rakuten, Tokyo | Jan 2016 - Dec 2018
+## Senior solutions engineer @ Rakuten, Tokyo | Jan 2016 - Dec 2017
 
 Planned and successfully migrated APIs used by mobile apps with high access(10-30M/day) from legacy system to new system.
 Designed and developed new efficient APIs for mobile applications and reduced around 12million redundant API calls/day
