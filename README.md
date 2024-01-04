@@ -16,7 +16,7 @@ Platforms: `Ethereum <blockchain>`
 
 ## Experience
 
-## VP of Engineering @ foriio, Remote | Sep 2021 - present
+## VP of Engineering @ foriio, Tokyo | Sep 2021 - present
 - responsible for recruiting and managing the engineering team, budgeting, and developing engineering processes and standards
 
 ## Senior Engineer @ PayrollHero, Remote | June 2020 - June 2021
